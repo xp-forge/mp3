@@ -1,2 +1,6 @@
 mp3 ChangeLog
 ========================================================================
+
+* QA-Release 2009-06-07 = 2.0.1 @thekid
+* PHP 5 migration = 2.0.0 @kiesel
+* Initial release 2006-11-20 = 1.0.0 @thekid
